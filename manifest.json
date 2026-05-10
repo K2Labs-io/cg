@@ -2,14 +2,14 @@
   "version": 2,
   "sheets": [
     {
-      "id": "pdf-100-25",
-      "filename": "100-25.pdf",
+      "id": "pdf-100-20",
+      "filename": "100-20.pdf",
       "type": "pdf",
       "version": "1",
-      "url": "https://ahamade86.github.io/cg_sheets/sheets/100-25.pdf",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/100-20.pdf",
       "displayName": "100-Q Sheet",
       "subtitle": "4 columns · 100 questions",
-      "darkness": "25% Darkness"
+      "darkness": "20% Darkness"
     },
     {
       "id": "pdf-100-50",
@@ -32,14 +32,14 @@
       "darkness": "100% Darkness"
     },
     {
-      "id": "pdf-50-25",
-      "filename": "50-25.pdf",
+      "id": "pdf-50-20",
+      "filename": "50-20.pdf",
       "type": "pdf",
       "version": "1",
-      "url": "https://ahamade86.github.io/cg_sheets/sheets/50-25.pdf",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/50-20.pdf",
       "displayName": "50-Q Sheet",
       "subtitle": "3 columns · 50 questions",
-      "darkness": "25% Darkness"
+      "darkness": "20% Darkness"
     },
     {
       "id": "pdf-50-50",
@@ -62,14 +62,14 @@
       "darkness": "100% Darkness"
     },
     {
-      "id": "pdf-25-25",
-      "filename": "25-25.pdf",
+      "id": "pdf-25-20",
+      "filename": "25-20.pdf",
       "type": "pdf",
       "version": "1",
-      "url": "https://ahamade86.github.io/cg_sheets/sheets/25-25.pdf",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/25-20.pdf",
       "displayName": "25-Q Sheet",
       "subtitle": "3 columns · 25 questions",
-      "darkness": "25% Darkness"
+      "darkness": "20% Darkness"
     },
     {
       "id": "pdf-25-50",
@@ -92,14 +92,14 @@
       "darkness": "100% Darkness"
     },
     {
-      "id": "jpeg-100-25",
-      "filename": "100-25.jpeg",
+      "id": "jpeg-100-20",
+      "filename": "100-20.jpeg",
       "type": "jpeg",
       "version": "1",
-      "url": "https://ahamade86.github.io/cg_sheets/sheets/100-25.jpeg",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/100-20.jpeg",
       "displayName": "100-Q Sheet",
       "subtitle": "4 columns · 100 questions",
-      "darkness": "25% Darkness"
+      "darkness": "20% Darkness"
     },
     {
       "id": "jpeg-100-50",
@@ -122,14 +122,14 @@
       "darkness": "100% Darkness"
     },
     {
-      "id": "jpeg-50-25",
-      "filename": "50-25.jpeg",
+      "id": "jpeg-50-20",
+      "filename": "50-20.jpeg",
       "type": "jpeg",
       "version": "1",
-      "url": "https://ahamade86.github.io/cg_sheets/sheets/50-25.jpeg",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/50-20.jpeg",
       "displayName": "50-Q Sheet",
       "subtitle": "3 columns · 50 questions",
-      "darkness": "25% Darkness"
+      "darkness": "20% Darkness"
     },
     {
       "id": "jpeg-50-50",
@@ -152,14 +152,14 @@
       "darkness": "100% Darkness"
     },
     {
-      "id": "jpeg-25-25",
-      "filename": "25-25.jpeg",
+      "id": "jpeg-25-20",
+      "filename": "25-20.jpeg",
       "type": "jpeg",
       "version": "1",
-      "url": "https://ahamade86.github.io/cg_sheets/sheets/25-25.jpeg",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/25-20.jpeg",
       "displayName": "25-Q Sheet",
       "subtitle": "3 columns · 25 questions",
-      "darkness": "25% Darkness"
+      "darkness": "20% Darkness"
     },
     {
       "id": "jpeg-25-50",
