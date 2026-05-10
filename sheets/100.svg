@@ -21,10 +21,7 @@
 
       .cls-3 {
         stroke: #939598;
-      }
-
-      .cls-3, .cls-7 {
-        stroke-width: .68px;
+        stroke-width: .3px;
       }
 
       .cls-11 {
@@ -59,6 +56,10 @@
 
       .cls-6 {
         stroke-width: .53px;
+      }
+
+      .cls-7 {
+        stroke-width: .68px;
       }
 
       .cls-8 {
