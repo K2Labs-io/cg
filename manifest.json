@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "sheets": [
+    {
+      "id": "100-50",
+      "filename": "100-50.pdf",
+      "version": "1",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/100-50.pdf",
+      "displayName": "100-Q Sheet",
+      "subtitle": "4 columns · 100 questions",
+      "darkness": "50% Darkness"
+    },
+    {
+      "id": "50-50",
+      "filename": "50-50.pdf",
+      "version": "1",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/50-50.pdf",
+      "displayName": "50-Q Sheet",
+      "subtitle": "3 columns · 50 questions",
+      "darkness": "50% Darkness"
+    },
+    {
+      "id": "25-50",
+      "filename": "25-50.pdf",
+      "version": "1",
+      "url": "https://ahamade86.github.io/cg_sheets/sheets/25-50.pdf",
+      "displayName": "25-Q Sheet",
+      "subtitle": "3 columns · 25 questions",
+      "darkness": "50% Darkness"
+    }
+  ]
+}
