@@ -11,16 +11,7 @@
       "subtitle": "4 columns · 100 questions",
       "darkness": "20% Darkness"
     },
-      {
-      "id": "pdf-100-200",
-      "filename": "100-200.pdf",
-      "type": "pdf",
-      "version": "1",
-      "url": "https://ahamade86.github.io/cg_sheets/sheets/100-200.pdf",
-      "displayName": "100-Q Sheet test",
-      "subtitle": "4 columns · 100 questions",
-      "darkness": "20% Darkness"
-    },
+
     {
       "id": "pdf-100-50",
       "filename": "100-50.pdf",
