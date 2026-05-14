@@ -93,28 +93,20 @@
     </style>
   </defs>
   <g id="Reg_Marks" data-name="Reg Marks">
-    <g>
-      <g>
-        <g>
-          <rect x="137.86" y="195.04" width="14.76" height="14.76"/>
-          <rect x="395.88" y="195.04" width="14.76" height="14.76"/>
-        </g>
-        <g>
-          <rect x="137.86" y="575.75" width="14.76" height="14.76"/>
-          <rect x="395.88" y="575.75" width="14.76" height="14.76"/>
-        </g>
-      </g>
-      <rect x="270.56" y="195.04" width="7.38" height="7.38"/>
-      <rect x="403.25" y="389.08" width="7.38" height="7.38" rx="3.69" ry="3.69"/>
-      <rect x="137.86" y="389.08" width="7.38" height="7.38" rx="3.69" ry="3.69"/>
-      <rect x="270.56" y="583.13" width="7.38" height="7.38" rx="3.69" ry="3.69"/>
-    </g>
+    <rect x="137.86" y="195.04" width="20.77" height="20.77"/>
+    <rect x="389.86" y="195.04" width="20.77" height="20.77"/>
+    <rect x="137.86" y="569.73" width="20.77" height="20.77"/>
+    <rect x="389.86" y="569.73" width="20.77" height="20.77"/>
+    <rect x="269.06" y="195.04" width="10.39" height="10.39"/>
+    <rect x="400.25" y="387.58" width="10.39" height="10.39" rx="5.19" ry="5.19"/>
+    <rect x="137.86" y="387.58" width="10.39" height="10.39" rx="5.19" ry="5.19"/>
+    <rect x="269.06" y="580.12" width="10.39" height="10.39" rx="5.19" ry="5.19"/>
   </g>
   <g id="footer">
-    <text class="cls-13" transform="translate(156.72 572.66)"><tspan x="0" y="0">CAMGRADER.COM</tspan></text>
+    <text class="cls-13" transform="translate(165.72 569.66)"><tspan x="0" y="0">CAMGRADER.COM</tspan></text>
     <g>
-      <text class="cls-13" transform="translate(250.1 572.66)"><tspan x="0" y="0">25 QUESTIONS</tspan></text>
-      <text class="cls-15" transform="translate(261.87 579.27)"><tspan x="0" y="0">SHEET v1.1</tspan></text>
+      <text class="cls-13" transform="translate(248.77 569.66)"><tspan x="0" y="0">25 QUESTIONS</tspan></text>
+      <text class="cls-15" transform="translate(260.54 576.27)"><tspan x="0" y="0">SHEET v1.1</tspan></text>
     </g>
     <g>
       <rect class="cls-8" x="380.3" y="628.56" width="5.88" height="5.88"/>
